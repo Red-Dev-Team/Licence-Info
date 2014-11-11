@@ -4,4 +4,4 @@ Info
 
 Donate
 ======
-<p>Donations are appreciated but not required.  If you do wish to donate, visit our website or contact me at</p>
+<p>Donations are appreciated but not required.  If you do wish to donate, contact me at <a href="mailto:zachary.reddev@gmail.com">zachary.reddev@gmail</a>.</p>
